@@ -8,7 +8,7 @@ function Header() {
   const navigate = useNavigate();
   return (
     <header className=" w-full flex items-center justify-center min-h-screen relative">
-      <div className="header-bg-overlay-div absolute h-full w-full z-0"></div>
+      <div className=" absolute h-full w-full z-0"></div>
       <section className=" max-w-max-width-of-section w-full flex items-center justify-center z-[1]">
         <div className=" w-width-of-component flex items-center justify-center text-white font-poppins">
           <div className=" w-full flex items-center justify-center flex-col leading-none">
