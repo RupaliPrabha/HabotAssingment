@@ -1,0 +1,14 @@
+header {
+  background-image: url("C:\Users\mukul\Desktop\Habot\project\public\assets\header-bg-img.png");
+  background-size: cover;
+  background-position: top;
+  background-repeat: no-repeat;
+  .header-bg-overlay-div {
+    background: linear-gradient(
+        356.01deg,
+        rgba(7, 47, 87, 0.75) 50.8%,
+        rgba(7, 47, 87, 0) 94.58%
+      ),
+      linear-gradient(0deg, rgba(7, 47, 87, 0.45), rgba(7, 47, 87, 0.45));
+  }
+}
